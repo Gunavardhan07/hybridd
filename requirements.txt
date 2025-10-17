@@ -1,5 +1,5 @@
 streamlit>=1.25.0
-torch==2.8.0
+torch==2.9.0
 torch-geometric==2.7.0
 torch-scatter==2.1.2
 torch-sparse==0.7.5
