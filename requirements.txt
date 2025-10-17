@@ -1,10 +1,7 @@
 streamlit>=1.25.0
 torch==2.9.0
-torch-geometric==2.7.0
-torch-scatter==2.1.2
-torch-sparse==0.7.5
-torch-cluster==1.6.1
-torch-spline-conv==1.2.2
+torchvision==0.24.0
+torchaudio==2.0.2
 transformers==4.33.2
 tokenizers==0.15.0
 datamol==0.6.0
